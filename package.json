@@ -8,6 +8,9 @@
     "start": "wrangler dev"
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "^2.2.2",
+    "prettier": "^2.8.8",
+    "typescript": "^3.9.10",
     "wrangler": "^3.60.0"
   }
 }
